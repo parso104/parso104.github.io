@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Yurts - Pacific Trails Resort</title>
+</head>
+<body>
+  <header>
+    <h1>Pacific Trails Resort</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="yurts.html">Yurts</a>
+  </nav>
+
+  <main>
+    <h2>Yurts</h2>
+    <p>Stay in a cozy yurt that blends camping with comfort.</p>
+
+    <h2>Amenities</h2>
+    <ul>
+      <li>Comfortable bed</li>
+      <li>Electric lighting</li>
+      <li>Nearby bathhouse</li>
+    </ul>
+
+    <h2>Reservations</h2>
+    <p>Email <a href="mailto:stays@pacifictrails.example">stays@pacifictrails.example</a></p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Pacific Trails Resort</p>
+  </footer>
+</body>
+</html>
